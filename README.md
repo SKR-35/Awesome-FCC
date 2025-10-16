@@ -24,7 +24,7 @@ Example / Template
 
 - [Transaction Monitoring (AML)](#transaction-monitoring-aml)
 - [Trade Surveillance (Market Abuse)](#trade-surveillance-market-abuse)
-- [E-Comms / Conduct Surveillance](#ecomms--conduct-surveillance)
+- [E-Comms / Conduct Surveillance](#e-comms--conduct-surveillance)
 - [Fraud Detection](#fraud-detection)
 - [Sanctions & Screening](#sanctions--screening)
 - [KYC / KYB / Customer Risk](#kyc--kyb--customer-risk)
@@ -75,12 +75,6 @@ OFAC SDN & Consolidated Lists - Official lists + update cadence, formats.
 
 ## Regulations, Standards & Typologies
 
-## Awesome Lists & General ML Tooling
-
-## Maintenance Policy
-
-## License
-
 ## Vendor / Commercial Platforms
 
 Commercial tools are useful for discovery.
@@ -100,3 +94,9 @@ Featurespace - Adaptive behavioral fraud analytics.
 Behavox / Shield / Smarsh - E-comms surveillance stacks.
 
 Solidus / ACA - Trade surveillance.
+
+## Awesome Lists & General ML Tooling
+
+## Maintenance Policy
+
+## License
