@@ -44,7 +44,8 @@ Example / Template
 
 ## Transaction Monitoring (AML)
 
-- Apache Flink - Streaming engine for real-time TM pipelines. [GitHub](https://github.com/apache/flink)
+- Apache Flink - Streaming engine for real-time TM pipelines. 
+	- <a href="https://github.com/apache/flink" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Trade Surveillance (Market Abuse)
 
