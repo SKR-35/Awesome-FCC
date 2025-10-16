@@ -4,7 +4,7 @@ A curated list of Financial Crime Compliance (FCC) resources: transaction monito
 
 FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative tooling. This list aims to be practical, vendor-neutral and signal-rich.
 
-# Legend
+## Legend
 
 Open-source
 
@@ -20,29 +20,33 @@ Guide / Course
 
 Example / Template
 
-# Table of Contents
+## Table of Contents
 
-Transaction Monitoring (AML)
-Trade Surveillance (Market Abuse)
-E-Comms / Conduct Surveillance
-Fraud Detection
-Sanctions & Screening
-KYC / KYB / Customer Risk
-Case Management & Investigation
-Graph & Link Analysis
-Entity Resolution & Master Data
-Data Ingestion, ETL & Quality
-Synthetic Data & Simulators
-Explainability & Model Risk
-Benchmarks & Datasets
-Regulations, Standards & Typologies
-Vendor / Commercial Platforms
-Awesome Lists & General ML Tooling
-Contributing
-Maintenance Policy
-License
+- [Transaction Monitoring (AML)](#Transaction Monitoring (AML))
+- [Trade Surveillance (Market Abuse)](#Trade Surveillance (Market Abuse))
+- [E-Comms / Conduct Surveillance]
+- [Fraud Detection]
+- [Sanctions & Screening](#Sanctions & Screening)
+- [KYC / KYB / Customer Risk]
+- [Case Management & Investigation]
+- [Graph & Link Analysis]
+- [Entity Resolution & Master Data]
+- [Data Ingestion, ETL & Quality]
+- [Synthetic Data & Simulators]
+- [Explainability & Model Risk]
+- [Benchmarks & Datasets]
+- [Regulations, Standards & Typologies]
+- [Vendor / Commercial Platforms](#Vendor / Commercial Platforms)
+- [Awesome Lists & General ML Tooling]
+- [Contributing]
+- [Maintenance Policy]
+- [License]
 
-# Sanctions & Screening
+## Transaction Monitoring (AML)
+
+## Trade Surveillance (Market Abuse)
+
+## Sanctions & Screening
 
 OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines.
 
@@ -50,7 +54,7 @@ FuzzyWuzzy / RapidFuzz - Name-matching baseline.
 
 OFAC SDN & Consolidated Lists - Official lists + update cadence, formats.
 
-# Vendor / Commercial Platforms
+## Vendor / Commercial Platforms
 
 Commercial tools are useful for discovery.
 
