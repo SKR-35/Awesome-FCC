@@ -24,27 +24,30 @@ Example / Template
 
 - [Transaction Monitoring (AML)](#transaction-monitoring-aml)
 - [Trade Surveillance (Market Abuse)](#trade-surveillance-market-abuse)
-- [E-Comms / Conduct Surveillance]
-- [Fraud Detection]
+- [E-Comms / Conduct Surveillance](#ecomms--conduct-surveillance)
+- [Fraud Detection](#fraud-detection)
 - [Sanctions & Screening](#sanctions--screening)
-- [KYC / KYB / Customer Risk]
-- [Case Management & Investigation]
-- [Graph & Link Analysis]
-- [Entity Resolution & Master Data]
-- [Data Ingestion, ETL & Quality]
-- [Synthetic Data & Simulators]
-- [Explainability & Model Risk]
-- [Benchmarks & Datasets]
-- [Regulations, Standards & Typologies]
+- [KYC / KYB / Customer Risk](#kyc--kyb--customer-risk)
+- [Case Management & Investigation](#case-management--investigation)
+- [Graph & Link Analysis](#graph--link-analysis)
+- [Entity Resolution & Master Data](#entity-resolution--master-data)
+- [Data Ingestion, ETL & Quality](#data-ingestion-etl--quality)
+- [Synthetic Data & Simulators](#synthetic-data--simulators)
+- [Explainability & Model Risk](#explainability--model-risk)
+- [Benchmarks & Datasets](#benchmarks--datasets)
+- [Regulations, Standards & Typologies](#regulations-standards--typologies)
 - [Vendor / Commercial Platforms](#vendor--commercial-platforms)
-- [Awesome Lists & General ML Tooling]
-- [Contributing]
-- [Maintenance Policy]
-- [License]
+- [Awesome Lists & General ML Tooling](#awesome-lists--general-ml-tooling)
+- [Maintenance Policy](#maintenance-policy)
+- [License](#license)
 
 ## Transaction Monitoring (AML)
 
 ## Trade Surveillance (Market Abuse)
+
+## E-Comms / Conduct Surveillance
+
+## Fraud Detection
 
 ## Sanctions & Screening
 
@@ -53,6 +56,30 @@ OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines.
 FuzzyWuzzy / RapidFuzz - Name-matching baseline.
 
 OFAC SDN & Consolidated Lists - Official lists + update cadence, formats.
+
+## KYC / KYB / Customer Risk
+
+## Case Management & Investigation
+
+## Graph & Link Analysis
+
+## Entity Resolution & Master Data
+
+## Data Ingestion, ETL & Quality
+
+## Synthetic Data & Simulators
+
+## Explainability & Model Risk
+
+## Benchmarks & Datasets
+
+## Regulations, Standards & Typologies
+
+## Awesome Lists & General ML Tooling
+
+## Maintenance Policy
+
+## License
 
 ## Vendor / Commercial Platforms
 
