@@ -44,57 +44,97 @@ Example / Template
 
 ## Transaction Monitoring (AML)
 
+- Apache Flink - Streaming engine for real-time TM pipelines.
+
 ## Trade Surveillance (Market Abuse)
+
+- TimescaleDB - Time-series SQL for order book analytics.
 
 ## E-Comms / Conduct Surveillance
 
+- spaCy / Hugging Face - NLP pipelines for policy violations, collusion cues.
+
 ## Fraud Detection
+
+- PyOD - Outlier detection toolbox for fraud features.
+
+- River - Online ML for streaming fraud detection.
+
+- XGBoost / LightGBM - Gradient boosting baselines for tabular fraud.
 
 ## Sanctions & Screening
 
-OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines.
+- OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines.
 
-FuzzyWuzzy / RapidFuzz - Name-matching baseline.
+- FuzzyWuzzy / RapidFuzz - Name-matching baseline.
 
-OFAC SDN & Consolidated Lists - Official lists + update cadence, formats.
+- OFAC SDN & Consolidated Lists - Official lists + update cadence, formats.
 
 ## KYC / KYB / Customer Risk
 
+- Great Expectations - Data quality gates for KYC feeds.
+
 ## Case Management & Investigation
+
+- Kibana/Elasticsearch - Query, pivot and visualize alert context.
 
 ## Graph & Link Analysis
 
+- NetworkX - Graph feature engineering (centrality, motifs).
+
+- Neo4j - Labeled-property graph DB for rings & money-mules.
+
+- Memgraph - Real-time graph with Cypher for streaming rings.
+
+- Graphistry - GPU visual analytics on alert clusters.
+
 ## Entity Resolution & Master Data
+
+- Splink - Probabilistic entity resolution at scale.
 
 ## Data Ingestion, ETL & Quality
 
+- Airflow - Batch orchestration for FCC pipelines.
+
 ## Synthetic Data & Simulators
+
+- SDV (Synthetic Data Vault) - Tabular synthetic data generation for model dev.
+
+- Gretel / YData - Tools to generate privacy-preserving FCC datasets.
 
 ## Explainability & Model Risk
 
+- SHAP - Local/global explanations for FCC models
+
 ## Benchmarks & Datasets
+
+- IEEE-CIS Fraud - Financial transactions fraud dataset (imbalanced).
+
+- Elliptic Bitcoin AML - Crypto AML labels for addresses/tx.
 
 ## Regulations, Standards & Typologies
 
+- FATF - Recommendations & typology reports (AML/CFT)
+
 ## Vendor / Commercial Platforms
 
-Commercial tools are useful for discovery.
+- Commercial tools are useful for discovery.
 
-Mantas - Enterprise AML transaction monitoring & case mgmt.
+- Mantas - Enterprise AML transaction monitoring & case mgmt.
 
-Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms).
+- Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms).
 
-SAS AML / Fraud - Analytics-driven FCC platform.
+- SAS AML / Fraud - Analytics-driven FCC platform.
 
-SymphonyAI NetReveal - AML, fraud, and KYC risk.
+- SymphonyAI NetReveal - AML, fraud and KYC risk.
 
-Quantexa - Entity resolution & network analytics.
+- Quantexa - Entity resolution & network analytics.
 
-Featurespace - Adaptive behavioral fraud analytics.
+- Featurespace - Adaptive behavioral fraud analytics.
 
-Behavox / Shield / Smarsh - E-comms surveillance stacks.
+- Behavox / Shield / Smarsh - E-comms surveillance stacks.
 
-Solidus / ACA - Trade surveillance.
+- Solidus / ACA - Trade surveillance.
 
 ## Awesome Lists & General ML Tooling
 
