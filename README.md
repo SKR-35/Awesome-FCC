@@ -4,24 +4,9 @@ A curated list of Financial Crime Compliance (FCC) resources: transaction monito
 
 FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative tooling. This list aims to be practical, vendor-neutral and signal-rich.
 
-## Legend
-
-Open-source
-
-Commercial / Vendor
-
-Dataset
-
-Paper / Standard / Reg
-
-Library / SDK
-
-Guide / Course
-
-Example / Template
-
 ## Table of Contents
 
+- [Legend](#legend)
 - [Transaction Monitoring (AML)](#transaction-monitoring-aml)
 - [Trade Surveillance (Market Abuse)](#trade-surveillance-market-abuse)
 - [E-Comms / Conduct Surveillance](#e-comms--conduct-surveillance)
@@ -40,6 +25,22 @@ Example / Template
 - [Awesome Lists & General ML Tooling](#awesome-lists--general-ml-tooling)
 - [Maintenance Policy](#maintenance-policy)
 - [License](#license)
+
+## Legend
+
+Open-source
+
+Commercial / Vendor
+
+Dataset
+
+Paper / Standard / Reg
+
+Library / SDK
+
+Guide / Course
+
+Example / Template
 
 ## Transaction Monitoring (AML)
 
