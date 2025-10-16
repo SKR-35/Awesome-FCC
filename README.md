@@ -22,11 +22,11 @@ Example / Template
 
 ## Table of Contents
 
-- [Transaction Monitoring (AML)](#Transaction Monitoring (AML))
-- [Trade Surveillance (Market Abuse)](#Trade Surveillance (Market Abuse))
+- [Transaction Monitoring (AML)](#transaction-monitoring-aml)
+- [Trade Surveillance (Market Abuse)](#trade-surveillance-market-abuse)
 - [E-Comms / Conduct Surveillance]
 - [Fraud Detection]
-- [Sanctions & Screening](#Sanctions & Screening)
+- [Sanctions & Screening](#sanctions--screening)
 - [KYC / KYB / Customer Risk]
 - [Case Management & Investigation]
 - [Graph & Link Analysis]
@@ -36,7 +36,7 @@ Example / Template
 - [Explainability & Model Risk]
 - [Benchmarks & Datasets]
 - [Regulations, Standards & Typologies]
-- [Vendor / Commercial Platforms](#Vendor / Commercial Platforms)
+- [Vendor / Commercial Platforms](#vendor--commercial-platforms)
 - [Awesome Lists & General ML Tooling]
 - [Contributing]
 - [Maintenance Policy]
