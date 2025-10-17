@@ -233,6 +233,8 @@ Commercial tools are useful for discovery:
 
 - FATF - Recommendations & typology reports (AML/CFT)
 
+	- <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
+
 ## Awesome Lists & General ML Tooling
 
 ## Maintenance Policy
