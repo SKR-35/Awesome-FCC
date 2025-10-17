@@ -119,9 +119,19 @@ Commercial tools are useful for discovery:
 
 - PyOD - Outlier detection toolbox for fraud features.
 
+	- <a href="https://github.com/yzhao062/pyod" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 - River - Online ML for streaming fraud detection.
 
+	- <a href="https://riverml.xyz/" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+	- <a href="https://github.com/online-ml/river" target="_blank" rel="noopener noreferrer">River GitHub</a>
+
 - XGBoost / LightGBM - Gradient boosting baselines for tabular fraud.
+
+	- <a href="https://github.com/dmlc/xgboost" target="_blank" rel="noopener noreferrer">xgboost GitHub</a>
+	
+	- <a href="https://github.com/microsoft/LightGBM" target="_blank" rel="noopener noreferrer">LightGBM GitHub</a>
 
 ## Sanctions & Screening
 
