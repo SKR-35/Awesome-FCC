@@ -95,6 +95,10 @@ Commercial tools are useful for discovery:
 	- <a href="https://questdb.com/glossary/real-time-trade-surveillance/" target="_blank" rel="noopener noreferrer">QuestDB Official Page</a>
 	
 	- <a href="https://github.com/questdb" target="_blank" rel="noopener noreferrer">QuestDB GitHub</a>
+	
+- Elliptic - Wallet & transaction screening for AML compliance
+
+	- <a href="https://www.elliptic.co/solutions/screening" target="_blank" rel="noopener noreferrer">Official Page</a>
 
 ## Transaction Monitoring (AML)
 
@@ -137,51 +141,93 @@ Commercial tools are useful for discovery:
 
 - OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines.
 
+	- <a href="https://www.opensanctions.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
+	
+	- <a href="https://github.com/opensanctions/opensanctions" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 - FuzzyWuzzy / RapidFuzz - Name-matching baseline.
 
+	- <a href="https://github.com/seatgeek/fuzzywuzzy" target="_blank" rel="noopener noreferrer">FuzzyWuzzy GitHub</a>
+	
+	- <a href="https://github.com/rapidfuzz/RapidFuzz" target="_blank" rel="noopener noreferrer">RapidFuzzy GitHub</a>
+
 - OFAC SDN & Consolidated Lists - Official lists + update cadence, formats.
+
+	- <a href="https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList" target="_blank" rel="noopener noreferrer">Official Page</a>
 
 ## KYC / KYB / Customer Risk
 
 - Great Expectations - Data quality gates for KYC feeds.
 
+	- <a href="https://github.com/great-expectations/great_expectations" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 ## Case Management & Investigation
 
 - Kibana/Elasticsearch - Query, pivot and visualize alert context.
+
+	- <a href="https://github.com/elastic/kibana" target="_blank" rel="noopener noreferrer">Kibana GitHub</a>
+	
+	- <a href="https://github.com/elastic/elasticsearchs" target="_blank" rel="noopener noreferrer">ElasticsearchGitHub</a>
 
 ## Graph & Link Analysis
 
 - NetworkX - Graph feature engineering (centrality, motifs).
 
+	- <a href="https://github.com/networkx/networkx" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 - Neo4j - Labeled-property graph DB for rings & money-mules.
+
+	- <a href="https://github.com/neo4j/neo4j" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 - Memgraph - Real-time graph with Cypher for streaming rings.
 
+	- <a href="https://github.com/memgraph/memgraph" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 - Graphistry - GPU visual analytics on alert clusters.
+
+	- <a href="https://github.com/graphistry" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Entity Resolution & Master Data
 
 - Splink - Probabilistic entity resolution at scale.
 
+	- <a href="https://github.com/moj-analytical-services/splink" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 ## Data Ingestion, ETL & Quality
 
 - Airflow - Batch orchestration for FCC pipelines.
+
+	- <a href="https://github.com/apache/airflow" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Synthetic Data & Simulators
 
 - SDV (Synthetic Data Vault) - Tabular synthetic data generation for model dev.
 
+	- <a href="https://github.com/sdv-dev/SDV" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 - Gretel / YData - Tools to generate privacy-preserving FCC datasets.
+
+	- <a href="https://github.com/gretelai/gretel-synthetics" target="_blank" rel="noopener noreferrer">Gretel GitHub</a>
+	
+	- <a href="https://github.com/ydataai" target="_blank" rel="noopener noreferrer">YData GitHub</a>
 
 ## Explainability & Model Risk
 
 - SHAP - Local/global explanations for FCC models
 
+	- <a href="https://github.com/shap/shap" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 ## Benchmarks & Datasets
 
 - IEEE-CIS Fraud - Financial transactions fraud dataset (imbalanced).
 
+	- <a href="https://www.kaggle.com/competitions/ieee-fraud-detection" target="_blank" rel="noopener noreferrer">Kaggle</a>
+
 - Elliptic Bitcoin AML - Crypto AML labels for addresses/tx.
+
+	- <a href="https://www.elliptic.co/media-center/elliptic-releases-bitcoin-transactions-data" target="_blank" rel="noopener noreferrer">Official Page</a>
+	
+	- <a href="https://www.kaggle.com/datasets/ellipticco/elliptic-data-set" target="_blank" rel="noopener noreferrer">Kaggle</a>
 
 ## Regulations, Standards & Typologies
 
