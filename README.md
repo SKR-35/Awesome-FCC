@@ -7,6 +7,7 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 ## Table of Contents
 
 - [Legend](#legend)
+- [Vendor / Commercial Platforms](#vendor--commercial-platforms)
 - [Transaction Monitoring (AML)](#transaction-monitoring-aml)
 - [Trade Surveillance (Market Abuse)](#trade-surveillance-market-abuse)
 - [E-Comms / Conduct Surveillance](#e-comms--conduct-surveillance)
@@ -21,7 +22,6 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 - [Explainability & Model Risk](#explainability--model-risk)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Regulations, Standards & Typologies](#regulations-standards--typologies)
-- [Vendor / Commercial Platforms](#vendor--commercial-platforms)
 - [Awesome Lists & General ML Tooling](#awesome-lists--general-ml-tooling)
 - [Maintenance Policy](#maintenance-policy)
 - [License](#license)
@@ -41,6 +41,44 @@ Library / SDK
 Guide / Course
 
 Example / Template
+
+## Vendor / Commercial Platforms
+
+Commercial tools are useful for discovery:
+
+- Mantas - Enterprise AML transaction monitoring & case mgmt.
+
+- Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms).
+
+- SAS AML / Fraud - Analytics-driven FCC platform.
+
+- SymphonyAI NetReveal - AML, fraud and KYC risk.
+
+	- <a href="https://www.symphonyai.com/financial-services/netreveal-transaction-monitoring/" target="_blank" rel="noopener noreferrer">Official Page</a>
+	
+	- <a href="https://github.com/symphonyai-accelerate" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Quantexa - Entity resolution & network analytics.
+
+	- <a href="https://www.quantexa.com/" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- Featurespace - Adaptive behavioral fraud analytics.
+
+	- <a href="https://www.featurespace.com/" target="_blank" rel="noopener noreferrer">Official Page</a>
+	
+	- <a href="https://github.com/Featurespace" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Behavox / Shield / Smarsh - E-comms surveillance stacks.
+
+	- <a href="https://www.behavox.com/" target="_blank" rel="noopener noreferrer">Behavox Official Page</a>
+	
+	- <a href="https://www.shieldfc.com/" target="_blank" rel="noopener noreferrer">Shield Official Page</a>
+	
+	- <a href="https://www.smarsh.com/" target="_blank" rel="noopener noreferrer">Smarsh Official Page</a>
+	
+	- <a href="https://github.com/smarsh" target="_blank" rel="noopener noreferrer">Smarsh GitHub</a>
+
+- Solidus / ACA - Trade surveillance.
 
 ## Transaction Monitoring (AML)
 
@@ -116,26 +154,6 @@ Example / Template
 ## Regulations, Standards & Typologies
 
 - FATF - Recommendations & typology reports (AML/CFT)
-
-## Vendor / Commercial Platforms
-
-- Commercial tools are useful for discovery.
-
-- Mantas - Enterprise AML transaction monitoring & case mgmt.
-
-- Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms).
-
-- SAS AML / Fraud - Analytics-driven FCC platform.
-
-- SymphonyAI NetReveal - AML, fraud and KYC risk.
-
-- Quantexa - Entity resolution & network analytics.
-
-- Featurespace - Adaptive behavioral fraud analytics.
-
-- Behavox / Shield / Smarsh - E-comms surveillance stacks.
-
-- Solidus / ACA - Trade surveillance.
 
 ## Awesome Lists & General ML Tooling
 
