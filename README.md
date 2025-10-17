@@ -46,11 +46,19 @@ Example / Template
 
 Commercial tools are useful for discovery:
 
-- Mantas - Enterprise AML transaction monitoring & case mgmt.
+- Oracle Financial Crime and Compliance Management (FCCM) Solutions - Enterprise AML transaction monitoring/Mantas & case mgmt.
 
-- Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms).
+	- <a href="https://www.oracle.com/financial-services/aml-financial-crime-compliance/" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- NICE Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms).
+
+	- <a href="https://www.niceactimize.com/" target="_blank" rel="noopener noreferrer">Official Page</a>
 
 - SAS AML / Fraud - Analytics-driven FCC platform.
+
+	- <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noopener noreferrer">Official Page</a>
+	
+	- <a href="https://github.com/sassoftware" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 - SymphonyAI NetReveal - AML, fraud and KYC risk.
 
@@ -78,7 +86,15 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://github.com/smarsh" target="_blank" rel="noopener noreferrer">Smarsh GitHub</a>
 
-- Solidus / ACA - Trade surveillance.
+- Solidus / ACA / QuestDB - Trade surveillance.
+
+	- <a href="https://www.soliduslabs.com/solutions/trade-surveillance" target="_blank" rel="noopener noreferrer">Solidus Official Page</a>
+	
+	- <a href="https://www.acaglobal.com/technology/surveillance-monitoring/market-abuse-surveillance/" target="_blank" rel="noopener noreferrer">ACA Official Page</a>
+	
+	- <a href="https://questdb.com/glossary/real-time-trade-surveillance/" target="_blank" rel="noopener noreferrer">QuestDB Official Page</a>
+	
+	- <a href="https://github.com/questdb" target="_blank" rel="noopener noreferrer">QuestDB GitHub</a>
 
 ## Transaction Monitoring (AML)
 
@@ -89,9 +105,15 @@ Commercial tools are useful for discovery:
 
 - TimescaleDB - Time-series SQL for order book analytics.
 
+	- <a href="https://github.com/timescale/timescaledb" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 ## E-Comms / Conduct Surveillance
 
 - spaCy / Hugging Face - NLP pipelines for policy violations, collusion cues.
+
+	- <a href="https://github.com/explosion/spaCy" target="_blank" rel="noopener noreferrer">spaCy GitHub</a>
+	
+	- <a href="https://github.com/huggingface" target="_blank" rel="noopener noreferrer">Hugging Face GitHub</a>
 
 ## Fraud Detection
 
