@@ -6,7 +6,6 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 
 ## Table of Contents
 
-- [Legend](#legend)
 - [Vendor / Commercial Platforms](#vendor--commercial-platforms)
 - [Transaction Monitoring (AML)](#transaction-monitoring-aml)
 - [Trade Surveillance (Market Abuse)](#trade-surveillance-market-abuse)
@@ -22,25 +21,6 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 - [Explainability & Model Risk](#explainability--model-risk)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Regulations, Standards & Typologies](#regulations-standards--typologies)
-- [Awesome Lists & General ML Tooling](#awesome-lists--general-ml-tooling)
-- [Maintenance Policy](#maintenance-policy)
-- [License](#license)
-
-## Legend
-
-Open-source
-
-Commercial / Vendor
-
-Dataset
-
-Paper / Standard / Reg
-
-Library / SDK
-
-Guide / Course
-
-Example / Template
 
 ## Vendor / Commercial Platforms
 
@@ -234,9 +214,3 @@ Commercial tools are useful for discovery:
 - FATF - Recommendations & typology reports (AML/CFT)
 
 	- <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
-
-## Awesome Lists & General ML Tooling
-
-## Maintenance Policy
-
-## License
