@@ -176,6 +176,10 @@ Commercial tools are useful for discovery:
 - Splink - Probabilistic entity resolution at scale.
 
 	- <a href="https://github.com/moj-analytical-services/splink" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+- Dedupe - Python entity resolution library.
+
+	- <a href="https://github.com/dedupeio/dedupe" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Data Ingestion, ETL & Quality
 
