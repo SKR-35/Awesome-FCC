@@ -151,7 +151,7 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://github.com/opensearch-project/OpenSearch" target="_blank" rel="noopener noreferrer">OpenSearch GitHub</a>
 	
-	- <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreferrer">Apache Superset</a>
+	- <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreferrer">Apache Superset GitHub</a>
 
 ## Graph & Link Analysis
 
@@ -182,6 +182,14 @@ Commercial tools are useful for discovery:
 - Airflow - Batch orchestration for FCC pipelines.
 
 	- <a href="https://github.com/apache/airflow" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+- Soda - Data quality testing and monitoring.
+
+	- <a href="https://github.com/sodadata/soda-core" target="_blank" rel="noopener noreferrer">GitHub</a> 
+
+- Pandera - Data validation for pandas pipelines.
+
+	- <a href="https://github.com/unionai-oss/pandera" target="_blank" rel="noopener noreferrer">GitHub</a> 
 
 ## Synthetic Data & Simulators
 
