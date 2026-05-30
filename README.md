@@ -248,3 +248,29 @@ Commercial tools are useful for discovery:
 - FATF - Recommendations & typology reports (AML/CFT)
 
 	- <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- Wolfsberg Group
+
+	- <a href="https://wolfsberg-group.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- FinCEN Advisories
+
+	- <a href="https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets/advisories" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- EU AML Directives / AMLA
+
+	- <a href="https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+	- <a href="https://www.amla.europa.eu/index_en" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- OFAC Guidance
+
+	- <a href="https://ofac.treasury.gov/" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- FCA Market Abuse Guidance
+
+	- <a href="https://www.fca.org.uk/markets/market-abuse" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- BIS papers
+
+	- <a href="https://www.bis.org/bispapers/index.htm" target="_blank" rel="noopener noreferrer">Official Page</a>
