@@ -20,6 +20,7 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 - [Data Ingestion, ETL & Quality](#data-ingestion-etl--quality)
 - [Synthetic Data & Simulators](#synthetic-data--simulators)
 - [MLOps, Monitoring & Drift Detection](#mlops-monitoring--drift-detection)
+- [Feature Engineering & Feature Store](#feature-engineering--feature-store)
 - [Explainability & Model Risk](#explainability--model-risk)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Regulations, Standards & Typologies](#regulations-standards--typologies)
@@ -248,7 +249,13 @@ Commercial tools are useful for discovery:
 - WhyLabs / whylogs - Data quality & model monitoring.
 
 	- <a href="https://github.com/whylabs/whylogs" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+## Feature Engineering & Feature Store
 
+- Featuretools - Automated feature engineering.
+
+	- <a href="https://github.com/alteryx/featuretools" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
 - Feast - Feature store for reusable FCC features.
 
 	- <a href="https://github.com/feast-dev/feast" target="_blank" rel="noopener noreferrer">GitHub</a>
