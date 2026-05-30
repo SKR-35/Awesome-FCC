@@ -19,6 +19,7 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 - [Entity Resolution & Master Data](#entity-resolution--master-data)
 - [Data Ingestion, ETL & Quality](#data-ingestion-etl--quality)
 - [Synthetic Data & Simulators](#synthetic-data--simulators)
+- [MLOps, Monitoring & Drift Detection](#mlops-monitoring--drift-detection)
 - [Explainability & Model Risk](#explainability--model-risk)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Regulations, Standards & Typologies](#regulations-standards--typologies)
@@ -233,6 +234,24 @@ Commercial tools are useful for discovery:
 - Mimesis - Synthetic profile generation.
 
 	- <a href="https://github.com/lk-geimfari/mimesis" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+## MLOps, Monitoring & Drift Detection
+
+- MLflow - Model tracking, registry, experiment mgmt for FCC models.
+
+	- <a href="https://github.com/mlflow/mlflow" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Evidently AI - Data drift, concept drift, monitoring.
+
+	- <a href="https://github.com/evidentlyai/evidently" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- WhyLabs / whylogs - Data quality & model monitoring.
+
+	- <a href="https://github.com/whylabs/whylogs" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Feast - Feature store for reusable FCC features.
+
+	- <a href="https://github.com/feast-dev/feast" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Explainability & Model Risk
 
