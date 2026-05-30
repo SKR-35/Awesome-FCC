@@ -15,6 +15,7 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 - [KYC / KYB / Customer Risk](#kyc--kyb--customer-risk)
 - [Case Management & Investigation](#case-management--investigation)
 - [Graph & Link Analysis](#graph--link-analysis)
+- [Graph Machine Learning](#graph-machine-learning)
 - [Entity Resolution & Master Data](#entity-resolution--master-data)
 - [Data Ingestion, ETL & Quality](#data-ingestion-etl--quality)
 - [Synthetic Data & Simulators](#synthetic-data--simulators)
@@ -174,6 +175,16 @@ Commercial tools are useful for discovery:
 - Graphistry - GPU visual analytics on alert clusters.
 
 	- <a href="https://github.com/graphistry" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+## Graph Machine Learning
+
+- PyTorch Geometric - Graph neural networks for AML/fraud rings.
+
+    - https://github.com/pyg-team/pytorch_geometric
+
+- DGL (Deep Graph Library) - Scalable graph learning.
+
+    - https://github.com/dmlc/dgl
 
 ## Entity Resolution & Master Data
 
