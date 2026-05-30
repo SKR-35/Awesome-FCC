@@ -208,6 +208,14 @@ Commercial tools are useful for discovery:
 - SHAP - Local/global explanations for FCC models
 
 	- <a href="https://github.com/shap/shap" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+- LIME - Local explainability for suspicious activity scoring.
+
+	- <a href="https://github.com/marcotcr/lime" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Fairlearn - Bias/fairness monitoring.
+
+	- <a href="https://github.com/fairlearn/fairlearn" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Benchmarks & Datasets
 
