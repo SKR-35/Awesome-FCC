@@ -210,6 +210,14 @@ Commercial tools are useful for discovery:
 - FCC-Synthetic-TM - Reproducible FCC synthetic data factory for transaction monitoring - customers, accounts, transactions, alerts, cases - ready for analytics & model testing.
 
 	- <a href="https://github.com/SKR-35/FCC-Synthetic-TM" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+- Faker - Synthetic customer/KYC generation.
+
+    - <a href="https://github.com/joke2k/faker" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Mimesis - Synthetic profile generation.
+
+	- <a href="https://github.com/lk-geimfari/mimesis" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Explainability & Model Risk
 
