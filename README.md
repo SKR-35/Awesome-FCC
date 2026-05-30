@@ -228,6 +228,20 @@ Commercial tools are useful for discovery:
 	- <a href="https://www.elliptic.co/media-center/elliptic-releases-bitcoin-transactions-data" target="_blank" rel="noopener noreferrer">Official Page</a>
 	
 	- <a href="https://www.kaggle.com/datasets/ellipticco/elliptic-data-set" target="_blank" rel="noopener noreferrer">Kaggle</a>
+	
+- PaySim - Mobile money fraud simulation dataset.
+
+    - <a href="https://github.com/EdgarLopezPhD/PaySim" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- IBM AML Simulated Transactions Dataset
+
+	- <a href="https://github.com/IBM/AML-Data" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+	- <a href="https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml" target="_blank" rel="noopener noreferrer">Kaggle</a>
+	
+- Kaggle Credit Card Fraud Detection
+
+	- <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank" rel="noopener noreferrer">Kaggle</a>
 
 ## Regulations, Standards & Typologies
 
