@@ -156,7 +156,7 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://github.com/opensearch-project/OpenSearch" target="_blank" rel="noopener noreferrer">OpenSearch GitHub</a>
 	
-- OpenSearch - Elastic alternative for investigations.
+- Apache Superset - Investigation dashboards.
 	
 	- <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreferrer">Apache Superset GitHub</a>
 
@@ -182,11 +182,11 @@ Commercial tools are useful for discovery:
 
 - PyTorch Geometric - Graph neural networks for AML/fraud rings.
 
-    - https://github.com/pyg-team/pytorch_geometric
+	- <a href="https://github.com/pyg-team/pytorch_geometric" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 - DGL (Deep Graph Library) - Scalable graph learning.
 
-    - https://github.com/dmlc/dgl
+	- <a href="https://github.com/dmlc/dgl" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Entity Resolution & Master Data
 
@@ -262,7 +262,7 @@ Commercial tools are useful for discovery:
 
 ## Explainability & Model Risk
 
-- SHAP - Local/global explanations for FCC models
+- SHAP - Local/global explanations for FCC models.
 
 	- <a href="https://github.com/shap/shap" target="_blank" rel="noopener noreferrer">GitHub</a>
 	
