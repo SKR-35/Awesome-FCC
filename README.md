@@ -148,8 +148,12 @@ Commercial tools are useful for discovery:
 	- <a href="https://github.com/elastic/kibana" target="_blank" rel="noopener noreferrer">Kibana GitHub</a>
 	
 	- <a href="https://github.com/elastic/elasticsearch" target="_blank" rel="noopener noreferrer">Elasticsearch GitHub</a>
+
+- OpenSearch - Elastic alternative for investigations.
 	
 	- <a href="https://github.com/opensearch-project/OpenSearch" target="_blank" rel="noopener noreferrer">OpenSearch GitHub</a>
+	
+- OpenSearch - Elastic alternative for investigations.
 	
 	- <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreferrer">Apache Superset GitHub</a>
 
