@@ -23,6 +23,8 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 - [Feature Engineering & Feature Store](#feature-engineering--feature-store)
 - [Explainability & Model Risk](#explainability--model-risk)
 - [Benchmarks & Datasets](#benchmarks--datasets)
+- [Certifications](#certifications)
+- [Books](#books)
 - [Regulations, Standards & Typologies](#regulations-standards--typologies)
 
 ## Vendor / Commercial Platforms
@@ -299,6 +301,95 @@ Commercial tools are useful for discovery:
 - Kaggle Credit Card Fraud Detection
 
 	- <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank" rel="noopener noreferrer">Kaggle</a>
+
+## Certifications
+
+### AML / Financial Crime
+
+- ACAMS CAMS - Certified Anti-Money Laundering Specialist.
+
+    - https://www.acams.org
+
+- ICA Advanced Certificate in Anti Money Laundering.
+
+    - https://www.int-comp.org
+
+- ICA Diploma in Financial Crime Prevention.
+
+    - https://www.int-comp.org
+
+### Fraud
+
+- Certified Fraud Examiner (CFE)
+
+    - https://www.acfe.com
+
+### Sanctions
+
+- Association of Certified Sanctions Specialists (ACSS)
+
+    - https://www.acams.org/acss
+
+### Audit & Risk
+
+- Certified Internal Auditor (CIA)
+
+    - https://www.theiia.org
+
+- Certified Information Systems Auditor (CISA)
+
+    - https://www.isaca.org
+
+- Financial Risk Manager (FRM)
+
+    - https://www.garp.org
+
+## Books
+
+### Financial Crime & AML
+
+- **The Laundrymen: Inside Money Laundering, the World's Third Largest Business**
+  - Jeffrey Robinson
+
+- **Money Laundering: A Guide for Criminal Investigators**
+  - John Madinger
+
+- **Dirty Entanglements: Corruption, Crime, and Terrorism**
+  - Louise I. Shelley
+
+- **The World's Banker**
+  - Sebastian Mallaby
+
+### Fraud
+
+- **Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques**
+  - Bart Baesens
+
+- **Financial Shenanigans**
+  - Howard Schilit, Jeremy Perler, Yoni Engelhart
+
+### Anti-Bribery & Corruption
+
+- **The Foreign Corrupt Practices Act in a New Era**
+  - Mike Koehler
+
+### Sanctions & Compliance
+
+- **Economic Sanctions: Theory and Practice**
+  - Michael P. Malloy
+
+### Investigations & Financial Intelligence
+
+- **Financial Investigation and Forensic Accounting**
+  - George A. Manning
+
+- **Forensic Analytics: Methods and Techniques for Forensic Accounting Investigations**
+  - Mark J. Nigrini
+
+### Network & Criminal Organizations
+
+- **Dark Commerce: How a New Illicit Economy Is Threatening Our Future**
+  - Louise I. Shelley
 
 ## Regulations, Standards & Typologies
 
