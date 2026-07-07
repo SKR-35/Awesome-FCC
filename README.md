@@ -306,15 +306,15 @@ Commercial tools are useful for discovery:
 
 ### AML / Financial Crime
 
-- ACAMS CAMS - Certified Anti-Money Laundering Specialist.
+- ACAMS CAMS - Certified Anti-Money Laundering Specialist
 
     - https://www.acams.org
 
-- ICA Advanced Certificate in Anti Money Laundering.
+- ICA Advanced Certificate in Anti Money Laundering
 
     - https://www.int-comp.org
 
-- ICA Diploma in Financial Crime Prevention.
+- ICA Diploma in Financial Crime Prevention
 
     - https://www.int-comp.org
 
